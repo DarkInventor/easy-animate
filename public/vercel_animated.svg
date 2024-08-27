@@ -1,0 +1,23 @@
+
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="695" height="141">
+            <defs>
+              <filter id="colorOverlay">
+                <feFlood flood-color="#000000" flood-opacity="0.5"/>
+                <feBlend in="SourceGraphic" in2="flood" mode="multiply"/>
+              </filter>
+            </defs>
+            <image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzOTQgODAiPjxwYXRoIGZpbGw9IiMwMDAiIGQ9Ik0yNjIgMGg2OC41djEyLjdoLTI3LjJ2NjYuNmgtMTMuNlYxMi43SDI2MlYwWk0xNDkgMHYxMi43SDk0djIwLjRoNDQuM3YxMi42SDk0djIxaDU1djEyLjZIODAuNVYwaDY4Ljd6bTM0LjMgMGgtMTcuOGw2My44IDc5LjRoMTcuOWwtMzItMzkuNyAzMi0zOS42aC0xNy45bC0yMyAyOC42LTIzLTI4LjZ6bTE4LjMgNTYuNy05LTExLTI3LjEgMzMuN2gxNy44bDE4LjMtMjIuN3oiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSJNODEgNzkuMyAxNyAwSDB2NzkuM2gxMy42VjE3bDUwLjIgNjIuM0g4MVptMjUyLjYtLjRjLTEgMC0xLjgtLjQtMi41LTFzLTEuMS0xLjYtMS4xLTIuNi4zLTEuOCAxLTIuNSAxLjYtMSAyLjYtMSAxLjguMyAyLjUgMWEzLjQgMy40IDAgMCAxIC42IDQuMyAzLjcgMy43IDAgMCAxLTMgMS44em0yMy4yLTMzLjVoNnYyMy4zYzAgMi4xLS40IDQtMS4zIDUuNWE5LjEgOS4xIDAgMCAxLTMuOCAzLjVjLTEuNi44LTMuNSAxLjMtNS43IDEuMy0yIDAtMy43LS40LTUuMy0xcy0yLjgtMS44LTMuNy0zLjJjLS45LTEuMy0xLjQtMy0xLjQtNWg2Yy4xLjguMyAxLjYuNyAyLjJzMSAxLjIgMS42IDEuNWMuNy40IDEuNS41IDIuNC41IDEgMCAxLjgtLjIgMi40LS42YTQgNCAwIDAgMCAxLjYtMS44Yy4zLS44LjUtMS44LjUtM1Y0NS41em0zMC45IDkuMWE0LjQgNC40IDAgMCAwLTItMy4zIDcuNSA3LjUgMCAwIDAtNC4zLTEuMWMtMS4zIDAtMi40LjItMy4zLjUtLjkuNC0xLjYgMS0yIDEuNmEzLjUgMy41IDAgMCAwLS4zIDRjLjMuNS43LjkgMS4zIDEuMmwxLjggMSAyIC41IDMuMi44YzEuMy4zIDIuNS43IDMuNyAxLjJhMTMgMTMgMCAwIDEgMy4yIDEuOCA4LjEgOC4xIDAgMCAxIDMgNi41YzAgMi0uNSAzLjctMS41IDUuMWExMCAxMCAwIDAgMS00LjQgMy41Yy0xLjguOC00LjEgMS4yLTYuOCAxLjItMi42IDAtNC45LS40LTYuOC0xLjItMi0uOC0zLjQtMi00LjUtMy41YTEwIDEwIDAgMCAxLTEuNy01LjZoNmE1IDUgMCAwIDAgMy41IDQuNmMxIC40IDIuMi42IDMuNC42IDEuMyAwIDIuNS0uMiAzLjUtLjYgMS0uNCAxLjgtMSAyLjQtMS43YTQgNCAwIDAgMCAuOC0yLjRjMC0uOS0uMi0xLjYtLjctMi4yYTExIDExIDAgMCAwLTIuMS0xLjRsLTMuMi0xLTMuOC0xYy0yLjgtLjctNS0xLjctNi42LTMuMmE3LjIgNy4yIDAgMCAxLTIuNC01LjcgOCA4IDAgMCAxIDEuNy01IDEwIDEwIDAgMCAxIDQuMy0zLjVjMi0uOCA0LTEuMiA2LjQtMS4yIDIuMyAwIDQuNC40IDYuMiAxLjIgMS44LjggMy4yIDIgNC4zIDMuNCAxIDEuNCAxLjUgMyAxLjUgNWgtNS44eiIvPjwvc3ZnPg==" width="100%" height="100%" filter="url(#colorOverlay)"/>
+            <animateTransform
+              attributeName="transform"
+              attributeType="XML"
+              type="scale"
+              dur="1.5s"
+              begin="0.3s"
+              repeatCount="10"
+              values="1;1.1;1"
+              keyTimes="0;0.5;1"
+              calcMode="linear"
+              keySplines=""
+            />
+          </svg>
+        
