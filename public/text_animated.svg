@@ -2,7 +2,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" style="background: transparent;">
           <defs>
             <filter id="colorOverlay">
-              <feFlood flood-color="#c89797" flood-opacity="0.5"/>
+              <feFlood flood-color="#ffffff" flood-opacity="0.5"/>
               <feBlend in="SourceGraphic" in2="flood" mode="multiply"/>
             </filter>
           </defs>
@@ -10,14 +10,14 @@
           <animateTransform
             attributeName="transform"
             attributeType="XML"
-            type="translate"
+            type="scale"
             dur="1s"
-            begin="0s"
+            begin="0.5s"
             repeatCount="10"
-            values="-100% 0;0 0;0 0"
+            values="1;1.1;1"
             keyTimes="0;0.5;1"
-            calcMode="linear"
-            keySplines=""
+            calcMode="spline"
+            keySplines="0.5 0 0.5 1; 0.5 0 0.5 1"
           />
         </svg>
       

@@ -1,0 +1,33 @@
+
+          <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+            <style>
+              
+        @keyframes pulse {
+          
+          0%, 100% { transform: scale(1); }
+          50% { transform: scale(1.1); }
+        
+        }
+        .animated-element {
+          animation: pulse 1s 0s 10 alternate linear;
+          transform-origin: center;
+          opacity: 1;
+        }
+      
+              .animated-text {
+                font-family: Courier;
+                font-size: 115px;
+                fill: #ffffff;
+                stroke: #ff0000;
+                stroke-width: 2px;
+              }
+            </style>
+            <rect width="100%" height="100%" fill="#ffdbdb" />
+            <g transform="translate(250, 250)">
+              <text class="animated-element animated-text" text-anchor="middle" dominant-baseline="middle"
+                    transform="scale(2.9) rotate(-2) translate(0, 0)">
+                Kathan 
+              </text>
+            </g>
+          </svg>
+        
